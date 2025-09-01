@@ -1,0 +1,7 @@
+{
+  "name": "ughi4",
+  "creator": "voidaddons",
+  "description": "Auto i4 for juju/terminator",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
